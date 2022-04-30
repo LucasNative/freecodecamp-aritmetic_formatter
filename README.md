@@ -8,8 +8,8 @@ I developed this function that receives a list of arithmetic problems and return
 Optionally receives a second parameter **True** for show de result.
 `print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))`
 
-Output:
-<img style="height: 300px; ;" src="/img/arit.png" alt="">
+### Output:
+![img](/img/arit.png)
 
 For your convinience i let a example in de source code. Feel free to clone and use with your arithmetic problems!
 
